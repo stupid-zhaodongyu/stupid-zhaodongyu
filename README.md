@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stupid-zhaodongyu&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stupid-zhaodongyu&layout=donut&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stupid-zhaodongyu&repo=convoychat" />
-</a>
+</a> -->
 
