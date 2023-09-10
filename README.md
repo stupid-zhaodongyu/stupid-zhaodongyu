@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stupid-zhaodongyu&repo=convoychat" />
-</a> -->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupid-zhaodongyu&layout=donut&langs_count=8" />
+</a>
 
