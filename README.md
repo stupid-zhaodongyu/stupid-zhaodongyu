@@ -32,4 +32,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=stupid-zhaodongyu&layout=donut" />
 </a> -->
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stupid-zhaodongyu)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldiaspereira&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_title=true&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
